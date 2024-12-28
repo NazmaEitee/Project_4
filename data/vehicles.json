@@ -1,8 +1,26 @@
 [
     {
-        "name": "Honda",
+        "name": "Yamaha ",
         "type": "Bike",
-        "price": "130000",
-        "image": "https:\/\/e0.pxfuel.com\/wallpapers\/874\/435\/desktop-wallpaper-yamaha-bike-yamaha-black-sports-bike.jpg"
+        "price": "120",
+        "image": "https:\/\/wallpapercave.com\/wp\/iXwprvI.jpg"
+    },
+    {
+        "name": "Yamaha Mt15",
+        "type": "Bike",
+        "price": "120",
+        "image": "https:\/\/5.imimg.com\/data5\/SELLER\/Default\/2024\/5\/422920515\/JU\/FZ\/GF\/25845978\/whatsapp-image-2024-05-29-at-14-43-38.jpg"
+    },
+    {
+        "name": "BMW i7 eDrive50 M Sport ",
+        "type": "Car",
+        "price": "2000",
+        "image": "https:\/\/imgd.aeplcdn.com\/664x374\/n\/cw\/ec\/137875\/i7-exterior-right-front-three-quarter-8.jpeg?isig=0&q=80"
+    },
+    {
+        "name": "Toyota ",
+        "type": "Car",
+        "price": "1500",
+        "image": "https:\/\/bollywoodcuties.com\/wp-content\/uploads\/2024\/10\/wwww.png"
     }
 ]
